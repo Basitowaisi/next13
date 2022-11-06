@@ -1,0 +1,23 @@
+.article {
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  max-width: 600px;
+  /* margin: 0 auto; */
+  margin-top: 1rem;
+  border-radius: 10px;
+}
+
+.article h3 {
+  font-size: 1.25rem;
+  margin: 0;
+  margin-bottom: 0.5rem;
+  text-transform: capitalize;
+}
+
+.list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-bottom: 2rem;
+}

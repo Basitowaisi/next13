@@ -1,0 +1,9 @@
+.commentsContainer {
+  background-color: white;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.commentsContainer > p {
+  margin: 0;
+}
